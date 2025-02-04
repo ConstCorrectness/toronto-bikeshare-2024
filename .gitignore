@@ -20,3 +20,9 @@ dist/
 
 
 
+# config.py will hold keys
+config.py
+
+
+# notebook checkpoints
+.ipynb_checkpoints
