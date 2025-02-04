@@ -9,8 +9,14 @@
 
 .venv
 
+build/
 __pycache__/
 sdist/
 wheels/
 .pytest_cache/
+dist/
+*.egg-info/
+*.egg
+
+
 
