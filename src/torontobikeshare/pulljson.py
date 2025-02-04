@@ -12,5 +12,4 @@ if 'json' in response.headers['Content-Type']:
   json_data = response.json()  
   stations_list = json_data['data']['stations']
   print(stations_list[0])
-  
-  
+
