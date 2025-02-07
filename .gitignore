@@ -26,3 +26,7 @@ config.py
 
 # notebook checkpoints
 .ipynb_checkpoints
+
+
+#Large data set - too big for GitHub
+datasets/combined_ridership.csv
