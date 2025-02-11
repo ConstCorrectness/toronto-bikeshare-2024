@@ -12,3 +12,4 @@ $ python -m pip install torontobikeshare
 $ python src/torontobikeshare/main.py
 ```
 
+<img src="images/pie.png" width="200" height="200" />
