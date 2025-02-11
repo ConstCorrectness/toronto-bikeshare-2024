@@ -13,3 +13,7 @@ $ python src/torontobikeshare/main.py
 ```
 
 <img src="images/pie.png" width="200" height="200" />
+<img src="images/fig1.png" width="200" height="200" />
+<img src="images/fig2.png" width="200" height="200" />
+<img src="images/fig3.png" width="200" height="200" />
+<img src="images/fig4.png" width="200" height="200" />
