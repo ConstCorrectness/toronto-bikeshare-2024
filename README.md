@@ -46,16 +46,20 @@ $ jupyter notebook main.ipynb
 ---
 
 ## 📈 Results & Visualizations
+<p align="center">
+  <img src="images/fig1.png" width="200" height="200" style="display:inline" />
+  <img src="images/fig2.png" width="200" height="200" style="display:inline" />
+  <img src="images/fig3.png" width="200" height="200" style="display:inline" />
+  <img src="images/fig4.png" width="200" height="200" style="display:inline" />
+  <img src="images/fig5.png" width="200" height="200" style="display:inline" />
+  <img src="images/fig6.png" width="200" height="200" style="display:inline" />
+  <img src="images/fig7.png" width="200" height="200" style="display:inline" />
+  <img src="images/fig8.png" width="200" height="200" style="display:inline" />
+</p>
 
-<img src="images/fig1.png" width="200" height="200" />
-<img src="images/fig2.png" width="200" height="200" />
-<img src="images/fig3.png" width="200" height="200" />
-<img src="images/fig4.png" width="200" height="200" />
-<img src="images/fig5.png" width="200" height="200" />
-<img src="images/fig6.png" width="200" height="200" />
-<img src="images/fig7.png" width="200" height="200" />
-<img src="images/fig8.png" width="200" height="200" />
-
+<p align="center">
+The heatmap is at:
+</p>
 ## 🗺️ Mapping Bike Routes
 
 This project includes **geospatial analysis** using Folium to map bike routes.
@@ -66,20 +70,24 @@ import folium
 
 m = folium.Map(location=[sample_df['lat_start'].mean(), sample_df['lon_start'].mean()], zoom_start=10)
 heat_data = sample_df[['lat_start', 'lon_start']].values.tolist()
+
 HeatMap(heat_data).add_to(m)
+
+# output heapmap to .html
 m.save("images/heatmap.html")
+```
 
 ## Main Contributors:
--- Rob Raineri (coder, data wrangling, visualizations)
--- Gwen Seymour (coder, data cleaning, visualizations)
--- Peter Lin (coding, visualizations, writeups)
+- [Rob Raineri](https://github.com/ConstCorrectness) (coder, data wrangling, visualizations)
+- [Gwen Seymour](https://github.com/Gwen1987) (coder, data cleaning, visualizations)
+- [Peter Lin](https://github.com/bluejays101) (coding, visualizations, writeups)
+
 
 ### 📜 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+
 ### 🙌 Acknowledgments
 - Data Source: [Toronto Bike Share](https://bikesharetoronto.com/)
 - Google Maps API for route visualization
-
-
 
