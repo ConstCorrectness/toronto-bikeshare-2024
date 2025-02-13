@@ -57,11 +57,16 @@ $ jupyter notebook main.ipynb
   <img src="images/fig6.png" width="200" height="200" style="display:inline" />
   <img src="images/fig7.png" width="200" height="200" style="display:inline" />
   <img src="images/fig8.png" width="200" height="200" style="display:inline" />
+  <img src="images/heatmap_1.png" width="200" height="200" style="display:inline" />
+  <img src="images/heatmap_2.png" width="200" height="200" style="display:inline" />
+  <img src="images/heatmap_3.png" width="200" height="200" style="display:inline" />
 </p>
 
 <p align="center">
   The heatmap is: <a href="https://constcorrectness.github.io/toronto-bikeshare-2024/heatmap.html">here</a>
 </p>
+
+
 
 ## 🗺️ Mapping Bike Routes
 
