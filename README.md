@@ -62,6 +62,7 @@ $ jupyter notebook main.ipynb
 <p align="center">
 The heatmap is at:
 </p>
+
 ## 🗺️ Mapping Bike Routes
 
 This project includes **geospatial analysis** using Folium to map bike routes.
