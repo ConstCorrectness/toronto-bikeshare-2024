@@ -60,7 +60,7 @@ $ jupyter notebook main.ipynb
 </p>
 
 <p align="center">
-The heatmap is at:
+  The heatmap is: <a href="https://constcorrectness.github.io/toronto-bikeshare-2024/heatmap.html">here</a>
 </p>
 
 ## 🗺️ Mapping Bike Routes
