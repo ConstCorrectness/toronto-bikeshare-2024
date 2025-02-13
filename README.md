@@ -81,9 +81,9 @@ m.save("docs/heatmap.html")
 ```
 
 ## Main Contributors:
-- [Rob Raineri](https://github.com/ConstCorrectness) (coder, data wrangling, visualizations)
 - [Gwen Seymour](https://github.com/Gwen1987) (coder, data cleaning, visualizations)
 - [Peter Lin](https://github.com/bluejays101) (coding, visualizations, writeups)
+- [Rob Ranieri](https://github.com/ConstCorrectness) (coder, data wrangling, visualizations)
 
 
 ### 📜 License
