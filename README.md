@@ -76,7 +76,7 @@ heat_data = sample_df[['lat_start', 'lon_start']].values.tolist()
 HeatMap(heat_data).add_to(m)
 
 # output heapmap to .html
-m.save("images/heatmap.html")
+m.save("docs/heatmap.html")
 ```
 
 ## Main Contributors:
