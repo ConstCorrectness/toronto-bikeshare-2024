@@ -1,6 +1,5 @@
-<p align="center">
-  <h1>🚴 Toronto Bikeshare Analysis (2023) 🚴</h1>
-</p>
+# 🚴 Toronto Bikeshare Analysis (2023) 🚴
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
